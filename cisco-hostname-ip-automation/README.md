@@ -1,10 +1,10 @@
 # Cisco Hostname & IP Automation
 
-Python automation script for configuring Cisco IOS hostnames and interface IP addresses using Netmiko.
+Automates hostname and IP address configuration on Cisco IOS devices using Python and Netmiko.
 
 ## Features
 - Configure hostname
-- Configure interface IP
+- Configure IP addresses
 - Enable interfaces
 - Save configurations
 
@@ -12,15 +12,3 @@ Python automation script for configuring Cisco IOS hostnames and interface IP ad
 - Python
 - Netmiko
 - Cisco IOS
-
-## Installation
-
-```bash
-pip install netmiko
-```
-
-## Usage
-
-```bash
-python3 hostname_ip.py
-```
